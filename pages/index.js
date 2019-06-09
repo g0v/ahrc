@@ -28,6 +28,7 @@ export default class App extends React.Component {
         <div className="container">
           <LangBox />
           <About source={content} />
+          <a href="https://github.com/g0v/ahrc" target="_blank">Github</a>
         </div>
       </>
     );
