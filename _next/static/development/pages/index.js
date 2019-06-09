@@ -116,8 +116,28 @@ __webpack_require__.r(__webpack_exports__);
 
 var _jsxFileName = "/Users/yutin/Studio/ahrc/components/LangBox.js";
 
-function _templateObject2() {
+function _templateObject4() {
+  var data = Object(_babel_runtime_corejs2_helpers_esm_taggedTemplateLiteral__WEBPACK_IMPORTED_MODULE_7__["default"])(["\n  text-align: right;\n"]);
+
+  _templateObject4 = function _templateObject4() {
+    return data;
+  };
+
+  return data;
+}
+
+function _templateObject3() {
   var data = Object(_babel_runtime_corejs2_helpers_esm_taggedTemplateLiteral__WEBPACK_IMPORTED_MODULE_7__["default"])(["\n  display: inline-block;\n  border: none;\n  padding: 15px;\n  cursor: pointer;\n  outline: none;\n  text-decoration: none;\n  &:hover {\n    color: #198964\n  }\n"]);
+
+  _templateObject3 = function _templateObject3() {
+    return data;
+  };
+
+  return data;
+}
+
+function _templateObject2() {
+  var data = Object(_babel_runtime_corejs2_helpers_esm_taggedTemplateLiteral__WEBPACK_IMPORTED_MODULE_7__["default"])(["\n  display: inline-block;\n  font-size: 28px;\n"]);
 
   _templateObject2 = function _templateObject2() {
     return data;
@@ -127,7 +147,7 @@ function _templateObject2() {
 }
 
 function _templateObject() {
-  var data = Object(_babel_runtime_corejs2_helpers_esm_taggedTemplateLiteral__WEBPACK_IMPORTED_MODULE_7__["default"])(["\n  text-align: left;\n"]);
+  var data = Object(_babel_runtime_corejs2_helpers_esm_taggedTemplateLiteral__WEBPACK_IMPORTED_MODULE_7__["default"])(["\n  width: 60px;\n  margin: 10px;\n"]);
 
   _templateObject = function _templateObject() {
     return data;
@@ -139,8 +159,10 @@ function _templateObject() {
 
 
 
-var Wrapper = styled_components__WEBPACK_IMPORTED_MODULE_10__["default"].div(_templateObject());
-var Button = styled_components__WEBPACK_IMPORTED_MODULE_10__["default"].a(_templateObject2());
+var Logo = styled_components__WEBPACK_IMPORTED_MODULE_10__["default"].img(_templateObject());
+var Title = styled_components__WEBPACK_IMPORTED_MODULE_10__["default"].div(_templateObject2());
+var Button = styled_components__WEBPACK_IMPORTED_MODULE_10__["default"].a(_templateObject3());
+var Right = styled_components__WEBPACK_IMPORTED_MODULE_10__["default"].div(_templateObject4());
 
 var Header =
 /*#__PURE__*/
@@ -170,41 +192,69 @@ function (_React$Component) {
   Object(_babel_runtime_corejs2_helpers_esm_createClass__WEBPACK_IMPORTED_MODULE_1__["default"])(Header, [{
     key: "render",
     value: function render() {
-      return react__WEBPACK_IMPORTED_MODULE_8___default.a.createElement(Wrapper, {
+      return react__WEBPACK_IMPORTED_MODULE_8___default.a.createElement("div", {
+        className: "row",
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 26
+          lineNumber: 36
+        },
+        __self: this
+      }, react__WEBPACK_IMPORTED_MODULE_8___default.a.createElement("div", {
+        className: "col-8",
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 37
+        },
+        __self: this
+      }, react__WEBPACK_IMPORTED_MODULE_8___default.a.createElement(Logo, {
+        src: "/static/logo.png",
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 38
+        },
+        __self: this
+      }), react__WEBPACK_IMPORTED_MODULE_8___default.a.createElement(Title, {
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 39
+        },
+        __self: this
+      }, "Asian Human Rights Court Simulation")), react__WEBPACK_IMPORTED_MODULE_8___default.a.createElement(Right, {
+        className: "col-4",
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 41
         },
         __self: this
       }, react__WEBPACK_IMPORTED_MODULE_8___default.a.createElement(Button, {
         href: "/en",
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 27
+          lineNumber: 42
         },
         __self: this
       }, "EN"), react__WEBPACK_IMPORTED_MODULE_8___default.a.createElement(Button, {
         href: "/ch",
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 28
+          lineNumber: 43
         },
         __self: this
       }, "CH"), react__WEBPACK_IMPORTED_MODULE_8___default.a.createElement(Button, {
         href: "/kr",
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 29
+          lineNumber: 44
         },
         __self: this
       }, "KR"), react__WEBPACK_IMPORTED_MODULE_8___default.a.createElement(Button, {
         href: "/jp",
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 30
+          lineNumber: 45
         },
         __self: this
-      }, "JP"));
+      }, "JP")));
     }
   }]);
 
