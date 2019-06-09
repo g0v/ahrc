@@ -25944,7 +25944,15 @@ function (_React$Component) {
           lineNumber: 30
         },
         __self: this
-      })));
+      }), react__WEBPACK_IMPORTED_MODULE_8___default.a.createElement("a", {
+        href: "https://github.com/g0v/ahrc",
+        target: "_blank",
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 31
+        },
+        __self: this
+      }, "Github")));
     }
   }]);
 
