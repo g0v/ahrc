@@ -93,59 +93,35 @@ function (_React$Component) {
           lineNumber: 25
         },
         __self: this
-      }, react__WEBPACK_IMPORTED_MODULE_8___default.a.createElement(next_link__WEBPACK_IMPORTED_MODULE_9___default.a, {
+      }, react__WEBPACK_IMPORTED_MODULE_8___default.a.createElement(Button, {
         href: "/en",
         __source: {
           fileName: _jsxFileName,
           lineNumber: 26
         },
         __self: this
-      }, react__WEBPACK_IMPORTED_MODULE_8___default.a.createElement(Button, {
+      }, "EN"), react__WEBPACK_IMPORTED_MODULE_8___default.a.createElement(Button, {
+        href: "/ch",
         __source: {
           fileName: _jsxFileName,
           lineNumber: 27
         },
         __self: this
-      }, "EN")), react__WEBPACK_IMPORTED_MODULE_8___default.a.createElement(next_link__WEBPACK_IMPORTED_MODULE_9___default.a, {
-        href: "/ch",
+      }, "CH"), react__WEBPACK_IMPORTED_MODULE_8___default.a.createElement(Button, {
+        href: "/kr",
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 28
+        },
+        __self: this
+      }, "KR"), react__WEBPACK_IMPORTED_MODULE_8___default.a.createElement(Button, {
+        href: "/jp",
         __source: {
           fileName: _jsxFileName,
           lineNumber: 29
         },
         __self: this
-      }, react__WEBPACK_IMPORTED_MODULE_8___default.a.createElement(Button, {
-        __source: {
-          fileName: _jsxFileName,
-          lineNumber: 30
-        },
-        __self: this
-      }, "CH")), react__WEBPACK_IMPORTED_MODULE_8___default.a.createElement(next_link__WEBPACK_IMPORTED_MODULE_9___default.a, {
-        href: "/kr",
-        __source: {
-          fileName: _jsxFileName,
-          lineNumber: 32
-        },
-        __self: this
-      }, react__WEBPACK_IMPORTED_MODULE_8___default.a.createElement(Button, {
-        __source: {
-          fileName: _jsxFileName,
-          lineNumber: 33
-        },
-        __self: this
-      }, "KR")), react__WEBPACK_IMPORTED_MODULE_8___default.a.createElement(next_link__WEBPACK_IMPORTED_MODULE_9___default.a, {
-        href: "/jp",
-        __source: {
-          fileName: _jsxFileName,
-          lineNumber: 35
-        },
-        __self: this
-      }, react__WEBPACK_IMPORTED_MODULE_8___default.a.createElement(Button, {
-        __source: {
-          fileName: _jsxFileName,
-          lineNumber: 36
-        },
-        __self: this
-      }, "JP")));
+      }, "JP"));
     }
   }]);
 
@@ -157,4 +133,4 @@ function (_React$Component) {
 /***/ })
 
 })
-//# sourceMappingURL=index.js.3f291ab9b55a87553cf6.hot-update.js.map
+//# sourceMappingURL=index.js.245e212a0c54232e2216.hot-update.js.map
