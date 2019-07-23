@@ -7,8 +7,11 @@ import ch from '../static/readme/ch.md';
 import en from '../static/readme/en.md';
 import jp from '../static/readme/jp.md';
 import kr from '../static/readme/kr.md';
+import vn from '../static/readme/vn.md';
+import ms from '../static/readme/ms.md';
+import id from '../static/readme/id.md';
 
-const contents = { ch, en, jp, kr };
+const contents = { ch, en, jp, kr, vn, ms, id };
 
 export default class App extends React.Component {
   static getInitialProps = async ({ query }) => {

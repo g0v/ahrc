@@ -34,15 +34,18 @@ export default class Header extends React.Component {
   render() {
     return (
       <div className="row">
-        <div className="col-8">
+        <div className="col-7">
           <Logo src="/static/logo.png" />
           <Title>Asian Human Rights Court Simulation</Title>
         </div>
-        <Right className="col-4">
+        <Right className="col-5">
           <Button href="/en">EN</Button>
           <Button href="/ch">CH</Button>
           <Button href="/kr">KR</Button>
           <Button href="/jp">JP</Button>
+          <Button href="/vn">VN</Button>
+          <Button href="/ms">MS</Button>
+          <Button href="/id">ID</Button>
         </Right>
       </div>
     );

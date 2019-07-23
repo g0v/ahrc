@@ -1,0 +1,21 @@
+## Mengenai Kami
+
+Mahkamah Simulasi Hak Kemanusiaan Asia (AHRCS) telah ditubuhkan pada 8 Oktober 2018 melalui usaha kerjasama antara ahli-ahli kemasyarakatan sivil Asia yang bercita-cita untuk membina sebuah mahkamah hak kemanusiaan yang ditubuhkan daripada masyarakat, oleh masyarakat dan untuk masyarakat dengan initiatif kami supaya memastikan prinsip-prinsip dan nilai-nilai hak kemanusiaan dapat dipertahankan melalui prosiding guaman yang tulus.
+
+## Soalan Lazim
+
+* Apakah tujuan Penubuhan Mahkamah Simulasi Hak Kemanusiaan Asia (AHRCS)?
+
+Asia merupakan satu-satunya benua yang tidak mempunyai mahkamah hak kemanusiaan serantau. Malah, ianya tidak kekurangan keluhan hak kemanusiaan dan kes-kes yang amat perlu didengar dan diputuskan. Pelanggaran hak kemanusiaan yang serius termasuk penderaan, kehilangan paksaan, pelaksanaan melebihi bidangkuasa kehakiman sentiasa berlaku dari semasa ke semasa. Berdasarkan sebab ini, ianya merupakan kepentingan utama bagi Asia untuk menubuhkan sebuah mahkamah hak kemanusiaan serantau atau memperlembagakan satu mekanism hak kemanusiaan transnational bagi mempertahankan perlindungan hak kemanusiaan dalam dan merentasi seluruh Asia. 
+
+* Apakah kegiatan Mahkamah Simulasi Hak Kemanusiaan Asia (AHRCS)?
+
+Kini, AHRCS terdiri daripada tiga belas orang hakim yang dilantik dari sepuluh negara yang termasuk Bangladesh, Hong Kong, India, Jepan, Malaysia, Republic of Korea, Singapore, Sri Lanka, Taiwan dan Thailand. Selain daripada hakim-hakim yang dilantik itu, AHRCS juga mempunyai dua orang penasihat: Andras Sajo, seorang bekas hakim Mahkamah Hak Kemanusiaan Eropah (ECtHR) dan Yu-Hsiu Hsu, seorang bekas hakim Mahkamah Perlembagaan Taiwan. Bersama-sama dengan hakim-hakim dan penasihat-penasihat ini, sekreteriat AGRCS yang terletak di negara Taiwan telah disertai oleh kakitangan ahli-ahli yang berasal dari Malaysia, Singapore dan Taiwan. Pada bulan Julai 2019, persidangan pertama AHRCS akan mendengar kes pertamanya, En. Chiou Ho-shun v Taiwan Government, dan menganjurkan satu mesyuarat penuh untuk memuktamatkan aturan-aturan dan statut-statut AHRCS.
+
+* Apakah kepentingan dan wawasan kami?
+
+Walaupun kerajaan-kerajaan negara Asia masih lagi belum memulakan penubuhan mahkamah hak kemanusiaan, sebuah masyarakat sivil boleh menubuhkan mekanism perlindungan hak kemanusiaan dengan initiatif sendiri tanpa menunuggu tindakan pihak tertentu. Ianya adalah berdasarkan usaha kerjasama aktivis-aktivis hak kemanusiaan, peguam-peguam, sarjana-sarjana dan pertubuhan-pertubuhan yang mempunyai cita-cita untuk menubuhkan Mahkamah Simulasi Hak Kemanusiaan Asia yang berasaskan kemasyarakatan sivil daripada masyarakat, oleh masyarakat dan untuk masyarakat. 
+
+## Chiou Ho-shun v Taiwan Government
+
+En. Chiou Ho-shun, tertuduh sebagai seorang ketua geng jenayah yang terdiri daripada 12 orang yang dipertangungjawabkan ke atas pembunuhan dan pemotongan mayat seorang wanita sekitar bulan November 1987 dan penculikan seorang budak lelaki berumur 10 tahun dan merupakan orang yang pertama dijatuhkan hukuman mati pada bulan November 1989. En. Chiou dan sebelas orang yang lain itu telah dikenali sebagai ahli geng jenayah yang turut merupakan defendan-defendan dalam kes prosidur jenayah beliau. Selepas rayuan yang berulang kali sepanjang tempoh 22 tahun, hukuman mati yang dijatuhkan ke atasnya telah disahkan pada tahun 2011. Berdasarkan permohonan En. Chiou yang dihujahkan di Mahkamah, En. Chiou telah menuntut bahawa kesabitan kesalahannya telah mengasaskan pengakuan beliau dan defendan-defendan yang lain, di mana sebahagian daripada pengakuan itu telah terbukti diperoleh dengan penderaan dan paksaan daripada pihak pendakwaan dan anggota polis yang telah sejak itu disabitkan kesalahan menjalankan penyeksaan semasa menjalankan penyiasiatan pada tahun 1994. Beliau juga menuntut bahawa ianya tidak terdapat sebarang bukti yang ternyata dalam kedua-dua kes pembunuhan dan penculikan terhadap kesemua dua belas orang defendan-defendan yang terlibat dalam kes ini. En. Chiou telah dipenjarakan sepanjang 30 tahun sejak beliau ditangkap pada bulan September 1988.  

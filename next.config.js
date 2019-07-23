@@ -19,5 +19,8 @@ module.exports = {
     '/en': { page: '/', query: { lang: 'en' } },
     '/jp': { page: '/', query: { lang: 'jp' } },
     '/kr': { page: '/', query: { lang: 'kr' } },
+    '/vn': { page: '/', query: { lang: 'vn' } },
+    '/ms': { page: '/', query: { lang: 'ms' } },
+    '/id': { page: '/', query: { lang: 'id' } },
   }),
 }
