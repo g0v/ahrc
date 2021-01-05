@@ -10,7 +10,7 @@
     "deploy": "yarn export; gh-pages -d out"
   },
   "dependencies": {
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "gh-pages": "^2.0.1",
     "next": "^8.1.0",
     "raw-loader": "^3.0.0",
